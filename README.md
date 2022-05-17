@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 ![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=HardikMody22&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ![Hardik's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HardikMody22&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![Hardik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HardikMody22)
 
 
 **Languages and Tools:**  
