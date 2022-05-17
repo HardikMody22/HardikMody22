@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![HitCount](http://hits.dwyl.com/HardikMody22/HardikMody22.svg)](http://hits.dwyl.com/HardikMody22/HardikMody22)
 
 ![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=HardikMody22&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![Hardik's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HardikMody22&layout=compact)
+![Hardik's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HardikMody22&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 **Languages and Tools:**  
